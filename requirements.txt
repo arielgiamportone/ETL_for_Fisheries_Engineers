@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+seaborn
+requests
+sqlalchemy
+# Añade jupyterlab o notebook si quieres que lo instalen desde aquí
+# jupyterlab
+# notebook
