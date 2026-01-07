@@ -1,9 +1,24 @@
-pandas
-numpy
-matplotlib
-seaborn
-requests
-sqlalchemy
-# Añade jupyterlab o notebook si quieres que lo instalen desde aquí
-# jupyterlab
-# notebook
+# Análisis de Datos
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Visualización
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.18.0
+
+# Web y APIs
+requests>=2.31.0
+
+# Base de Datos
+sqlalchemy>=2.0.0
+
+# Utilidades para exportar
+openpyxl>=3.1.0
+
+# Análisis de redes (para notebooks de visualización)
+networkx>=3.1
+
+# Jupyter (descomenta si necesitas instalarlo)
+# jupyterlab>=4.0.0
+# notebook>=7.0.0
