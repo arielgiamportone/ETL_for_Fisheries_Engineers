@@ -238,7 +238,7 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo [LICENSE](LICENSE) para
 
 - 📧 Email: giamportone1@gmail.com
 - 🐙 GitHub: [@arielgiamportone](https://github.com/arielgiamportone)
-- 💼 LinkedIn: [Tu Perfil]([https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/agiamportone/))
+- 💼 LinkedIn: [https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/agiamportone/)
 
 ---
 
