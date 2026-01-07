@@ -236,9 +236,9 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo [LICENSE](LICENSE) para
 
 **Ariel** - Fundador de la Comunidad Pesqueros en IA
 
-- 📧 Email: tu-email@ejemplo.com
-- 🐙 GitHub: [@tu-usuario](https://github.com/tu-usuario)
-- 💼 LinkedIn: [Tu Perfil](https://linkedin.com/in/tu-perfil)
+- 📧 Email: giamportone1@gmail.com
+- 🐙 GitHub: [@arielgiamportone](https://github.com/arielgiamportone)
+- 💼 LinkedIn: [Tu Perfil]([https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/agiamportone/))
 
 ---
 
